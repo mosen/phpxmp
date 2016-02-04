@@ -1,0 +1,3 @@
+/vendor/
+*.iml
+/test_files/BlueSquare/*
