@@ -9,5 +9,7 @@ handle that process.
 ## Testing ##
 
 I am testing using the BlueSquare files supplied with Adobe's XMP Toolkit SDK. These are not in the repository due to
-possible licensing concerns.
+possible licensing concerns. You can place them into the `test_files/BlueSquare` directory to run tests.
+
+
 
